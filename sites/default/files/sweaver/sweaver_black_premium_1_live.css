@@ -75,10 +75,12 @@ h2 .site-slogan {
 }
 
 .even .views-field {
-  background-color: #039eff;
+  background-color: #dae3e8;
+  color: #8c898c;
 }
 
 .odd .views-field {
   background-color: #0c6fe8;
+  color: #ffffff;
 }
 
