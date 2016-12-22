@@ -1,0 +1,84 @@
+.field-content a {
+  font-family: 'Palatino Linotype',Palatino,Serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  color: #0c6fe8;
+  line-height: 37px;
+  background-position: 50% 0%;
+}
+
+.row-3 .col-2 {
+  background-color: #141014;
+}
+
+#page-container_wrap_bg #page-container {
+  background-color: #000000;
+  color: #9e9e9e;
+}
+
+.col-1 .views-field {
+  background-color: #141314;
+}
+
+#page-container #content {
+  background-color: #000000;
+}
+
+.col-3 .views-field {
+  background-color: #120d12;
+}
+
+.col-2 .views-field {
+  background-color: #140f14;
+}
+
+h2 a {
+  font-family: 'Palatino Linotype',Palatino,Serif;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 63px;
+  font-size: 63px;
+}
+
+h2 .site-slogan {
+  font-family: 'Palatino Linotype',Palatino,Serif;
+  font-weight: bold;
+  font-style: italic;
+  color: #999999;
+  font-size: 19px;
+}
+
+#wrapper #page-container_wrap_bg {
+  background-color: #050505;
+}
+
+.field-items .field-item {
+  color: #999699;
+}
+
+.view .view-content {
+  background-color: #030303;
+}
+
+.message-inner .added-product-title {
+  background-color: #050505;
+}
+
+#post-content .messages {
+  background-color: #050505;
+}
+
+.views-table tbody {
+  background-color: #009c9c;
+}
+
+.even .views-field {
+  background-color: #039eff;
+}
+
+.odd .views-field {
+  background-color: #0c6fe8;
+}
+
