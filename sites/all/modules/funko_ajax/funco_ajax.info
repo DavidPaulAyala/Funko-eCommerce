@@ -1,0 +1,5 @@
+name = Popular Pops Ajax Loader
+description = Display Popular Pops with Ajax.
+package = Custom Funko Modules
+core = 7.x
+files[] = funko_ajax.module
